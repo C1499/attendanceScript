@@ -1,6 +1,5 @@
 import csv
 import xlrd3
-import os
     
 def today(file):
     l = []
